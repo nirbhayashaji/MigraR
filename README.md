@@ -3,7 +3,7 @@
 
 ## How to cite
 
-- Nirbhaya Shajia, Florbela Nunes, M.Ines Rocha, Elsa Ferreira Gomes, Helena Castro. MigraR: an open-source, R-based application for analysis and
+- Nirbhaya Shaji, Florbela Nunes, M.Ines Rocha, Elsa Ferreira Gomes, Helena Castro. MigraR: an open-source, R-based application for analysis and
 quantification of cell migration parameters. Computer Methods and Programs in Biomedicine (Submitted). 
 
 
