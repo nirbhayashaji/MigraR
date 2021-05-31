@@ -17,7 +17,7 @@ MigraR was developed to assist biomedical researchers in the analysis of cell tr
 
 MigraR sources can be downloaded from [GitHub](https://github.com/nirbhayashaji/MigraR.git). To execute MigraR locally, users must download the files **server.R** and **ui.R** to the working directory of RStudio and double click on the **server.R** file or open it using the file browser. The file will open in RStudio, wherefrom it can be executed by clicking _Run App_. MigraR will open in your default browser. To upload the cell tracking data, users simply have to click on the _Browse_ button listed first on the left panel as shown in the below figure:
 
-![plot](https://github.com/nirbhayashaji/MigraR/blob/main/images/Browse.png)
+![plot](https://github.com/nirbhayashaji/MigraR/blob/main/images/BrowseNew.png)
 
 Users must be connected to the internet for the initial run so that the required packages can be installed. From there, no internet connection is necessary for executing the application.
 
