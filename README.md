@@ -75,6 +75,6 @@ The second option, _Angle of Trajectories_, shows the frequency of cell trajecto
 
 All MigraR windows run in parallel with adjustment functions, which can be operated from the left side panel of the graphical interface. Here, users can find three sliders to filter the data sets based on the following parameters: Time, Velocity (Speed), and Straightness. The DataTable view, as shown below, shows the data that the application is using at the current instance based on the filters. 
 
-![plot](https://github.com/nirbhayashaji/MigraR/blob/main/DataTable.png)
+![plot](https://github.com/nirbhayashaji/MigraR/blob/main/images/DataTable.png)
 
 
