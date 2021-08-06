@@ -77,4 +77,6 @@ All MigraR windows run in parallel with adjustment functions, which can be opera
 
 ![plot](https://github.com/nirbhayashaji/MigraR/blob/main/images/DataTable.png)
 
-
+### Disclaimer
+- MigraR is an academic tool made by researchers to serve the research community. It is not guaranteed to be free of errors and we assume that its users are knowledgeable and responsible scientists. Please communicate any error or imprecision found to the authors so that we can continue improving this tool. Since this is an open-source tool, users can also improve the code.
+We kindly ask you to support MigraR by acknowledging the resource in your presentations, publications and grants. 
