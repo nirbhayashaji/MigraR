@@ -59,7 +59,7 @@ By clicking on the _Download plot_ button at the bottom of the charts, users can
 
 The _Velocity_ and _Straightness_ windows display box and whisker charters, plotted from the velocity and straightness values that MigraR computes for the set of cell trajectories under analysis. Velocity values refer to the average velocity that each cell assumes along its trajectory. Straightness values refer to the behavior of each cell between the first and the last time point of its trajectory. By pressing the _Download plot_ buttons, users can generate and save the plot as **.png** files.
 
-![plot](https://github.com/nirbhayashaji/MigraR/blob/main/images/VelocityStraightnes.png)
+![plot](https://github.com/nirbhayashaji/MigraR/blob/main/images/VelocityStraightness.png)
 
 _Download the Velocity data_ and _Download the Straightness data_ buttons generate **.csv** files listing the values of velocity and straightness displayed on the corresponding plots. These **.csv** files can be used for subsequent comparative and statistical analyses between different data sets using dedicated software.
 
