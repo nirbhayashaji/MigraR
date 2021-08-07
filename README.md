@@ -37,7 +37,7 @@ In these files, data must be organized in four columns, _with fixed names_, as f
 
 Some cell tracking software might also deliver z coordinates listed in one additional column – column C. If the data file does not display z coordinates, users must introduce one mock (empty or randomly filled) column C, in order to get the data processed in MigraR. 
 
-In the caseof CSV file the data must be ’,’ separated and decimal separator has to be ’.’ for the data. The TrackIDs in the data cannot be 0, if it happens MigraR shows a warning message and will ask the user to change the TrackIDs to non zero values.
+In the case of CSV file the data must be ’,’ separated and decimal separator has to be ’.’ for the data. The TrackIDs in the data cannot be 0, if it happens MigraR shows a warning message and will ask the user to change the TrackIDs to non zero values.
 
 The upload of input files to MigraR is performed by clicking the _Browse_ button bellow the _Choose File_ text. 
 
