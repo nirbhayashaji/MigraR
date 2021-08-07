@@ -41,7 +41,7 @@ In the case of CSV file the data must be ’,’ separated and decimal separator
 
 The upload of input files to MigraR is performed by clicking the _Browse_ button bellow the _Choose File_ text. 
 
-## The four windows of MigraR
+## The four (main) windows of MigraR
 MigraR offers an intuitive graphical user interface for plotting and calculating cell migration parameters. MigraR automatically calculates velocity, straightness and direction of movement based on the spatial and temporal coordinates listed on the uploaded data file. The workflow of MigraR is organized in four windows _Trajectories_, _Velocity_, _Straightness_, and _Direction_, which can be selected from the respective tabs at the top of the large right side panel.
 
 ### The **Trajectories** window
@@ -74,6 +74,7 @@ In the first pair of plots, cells are colored with a red-to-yellow gradient acco
 
 The second option, _Angle of Trajectories_, shows the frequency of cell trajectories moving within the range of  $0-360\degree$ angles, over intervals of 4 degrees. Data are plotted both as column chart _Angle Frequency_ and _Rose Plot_. These plots, as well as the corresponding data sets are available for download using buttons similar to the ones in the previous windows. 
 
+The data used to create the MigraR images shown in the manuscript and ReadMe are available at [GitHub](https://github.com/nirbhayashaji/MigraR/blob/main/SampleData/Position_B_per%20minute.xlsx).
 
 ### The adjustments function of MigraR
 
