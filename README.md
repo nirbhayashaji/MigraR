@@ -39,6 +39,8 @@ Some cell tracking software might also deliver z coordinates listed in one addit
 
 In the case of CSV file the data must be ’,’ separated and decimal separator has to be ’.’ for the data. The TrackIDs in the data cannot be 0, if it happens MigraR shows a warning message and will ask the user to change the TrackIDs to non zero values.
 
+Warning messages for incorrect column names ( or lack of column names), tab separator, decimal separator and track id have been added. In cases where the user's machine accepts comma as decimal separator, using xlsx format data with comma decimal separator works with the application. Please note this works with xlsx files only. For csv and text file format decimal separator has to be point. 
+
 The upload of input files to MigraR is performed by clicking the _Browse_ button bellow the _Choose File_ text. 
 
 ## The four (main) windows of MigraR
